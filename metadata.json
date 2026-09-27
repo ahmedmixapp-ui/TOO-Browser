@@ -1,0 +1,6 @@
+{
+  "name": "TOOL Browser",
+  "description": "Fast, private and customizable web browser with comfortable reader mode, multi-tab browsing, night mode, offline reading, privacy protection, advanced download manager, and ergonomic bottom controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
